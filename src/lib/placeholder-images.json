@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A vibrant and inviting image of African-inspired ice cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxpY2UlMjBjcmVhbXxlbnwwfHx8fDE3NzEyNjY3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ice cream"
+    },
+    {
+      "id": "flavor-1",
+      "description": "Rooibos and Honeycomb ice cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxpY2UlMjBjcmVhbSUyMHNjb29wfGVufDB8fHx8MTc3MTMyNTUzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ice cream scoop"
+    },
+    {
+      "id": "flavor-2",
+      "description": "Baobab and Ginger ice cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpY2UlMjBjcmVhbSUyMGNvbmV8ZW58MHx8fHwxNzcxMzI1NTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ice cream cone"
+    },
+    {
+      "id": "flavor-3",
+      "description": "Hibiscus and Vanilla ice cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkZXNzZXJ0fGVufDB8fHx8MTc3MTMyNTUzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dessert"
+    },
+    {
+      "id": "about-us-image",
+      "description": "The founder of Tapi Tapi, Tapiwa Guzha.",
+      "imageUrl": "https://images.unsplash.com/photo-1681218034100-801ebcbc0221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3J0cmFpdCUyMHBlcnNvbnxlbnwwfHx8fDE3NzEyODIyMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "contact-map",
+      "description": "A map showing the location of Tapi Tapi in Cape Town.",
+      "imageUrl": "https://images.unsplash.com/photo-1717343824623-06293a62a70d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXAlMjBjaXR5fGVufDB8fHx8MTc3MTI3MDY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map city"
+    }
+  ]
 }
