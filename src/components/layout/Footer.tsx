@@ -11,9 +11,7 @@ export function Footer() {
             <span className="font-headline text-xl font-bold">Tapi Tapi</span>
           </div>
           <div className="text-center text-muted-foreground md:text-left">
-            <p>University of Cape Town in collaboration with GetSmarter.</p>
-            <p>&copy; {new Date().getFullYear()} Tapi Tapi Rebrand. All rights reserved.</p>
-            <p className="text-sm">Fictional website for educational purposes.</p>
+            <p>&copy; {new Date().getFullYear()} Tapi Tapi. All rights reserved.</p>
           </div>
           <div className="flex gap-4">
             <Link
